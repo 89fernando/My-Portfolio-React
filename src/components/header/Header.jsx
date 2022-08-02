@@ -4,7 +4,7 @@ import CTA from './CTA'
 import ME from '../../assets/fer.png'
 import HeaderSocial from './HeaderSocials'
 
-export const Header = () => {
+const Header = () => {
   return (
     <header>
       <div className="container header__container">
