@@ -11,7 +11,7 @@ const data = [
   {
     id:1,
     image: IMG1,
-    title: 'E-commerce Website Challenge',
+    title: 'E-commerce Website',
     github:'https://github.com/89fernando/frontend-challenge-junior'
   },
   {

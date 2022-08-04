@@ -21,7 +21,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward/>
               <h5>Experience</h5>
-              <small> 1+ Years Working</small>
+              <small> 1+ Years of Experience </small>
             </article>
             <article className='about__card'>
               <BsBook/>
@@ -35,8 +35,10 @@ const About = () => {
             </article>
           </div>
           <p>
-            Full Stack Developer, fã de tecnologia e entusiasta de metodologias ágeis.
-            As principais tecnologias que utilizo atualmente no Front-End são: #React.JS, #JavaScript, #ReactStrap, #HTML, #CSS, #Bootstrap e Material UI. 
+            I am a postgraduated professional in Business Administration, with an emphasis on processes, improvements and management.
+            I am currently studying technologies aimed at web development.
+            I am a technology fan and agile methodologies enthusiastic.
+            I believe that technology simplifies people's lives and connects them to many possibilities. 
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
