@@ -40,7 +40,7 @@ const About = () => {
             I am a technology fan and agile methodologies enthusiastic.
             I believe that technology simplifies people's lives and connects them to many possibilities. 
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="https://api.whatsapp.com/send?phone=5551981626259" target="blank" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
