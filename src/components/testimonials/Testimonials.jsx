@@ -2,6 +2,8 @@ import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/AVTR1.png'
 import AVTR2 from '../../assets/AVTR2.png'
+import AVTR3 from '../../assets/AVTR3.png'
+import AVTR4 from '../../assets/AVTR4.png'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -23,6 +25,16 @@ const data = [
     avatar: AVTR2,
     name: "Rodrigo Vieira - Grupo RBS",
     review: "A dedicated colleague, always attentive and open to new knowledge, never stop, searching of something more. Excellent professional, very communicative."
+  },
+  {
+    avatar: AVTR3,
+    name: "Flávia Tissot - OSPA",
+    review: "He is a great professional and a great person to work with. Competent, focused and proactive in propositions."
+  },
+  {
+    avatar: AVTR4,
+    name: "Lucas Hashiguchi - URBE.ME",
+    review: "Great professional, creative, dedicated and collaborative."
   },
 ]
 

@@ -22,27 +22,27 @@ const data = [
   },
   {
     id:3,
-    image: IMG3,
-    title: 'Search Marvel Characters',
-    github:'https://github.com/89fernando/Project-Marvel-Api'
-  },
-  {
-    id:4,
     image: IMG4,
     title: 'Tetris Game',
     github:'https://github.com/89fernando/tetris-game-react'
   },
   {
+    id:4,
+    image: IMG6,
+    title: 'This portfolio',
+    github:'https://github.com/89fernando/My-Portfolio-React'
+  },
+  {
     id:5,
-    image: IMG5,
-    title: 'To do List',
-    github:'https://github.com/89fernando/todo-list-react'
+    image: IMG3,
+    title: 'Search Marvel Characters',
+    github:'https://github.com/89fernando/Project-Marvel-Api'
   },
   {
     id:6,
-    image: IMG6,
-    title: 'Dashboards',
-    github:'https://github.com/89fernando'
+    image: IMG5,
+    title: 'To do List',
+    github:'https://github.com/89fernando/todo-list-react'
   },
 ]
 
