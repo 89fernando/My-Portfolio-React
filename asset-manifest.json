@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Portfolio-React/static/css/main.bd59d54d.css",
-    "main.js": "/My-Portfolio-React/static/js/main.db8b85ac.js",
+    "main.js": "/My-Portfolio-React/static/js/main.2efe04fa.js",
+    "static/media/me-about.jpg": "/My-Portfolio-React/static/media/me-about.a0fec858ae17db83faaf.jpg",
     "static/media/AVTR2.png": "/My-Portfolio-React/static/media/AVTR2.6c836710f582a6634542.png",
     "static/media/AVTR1.png": "/My-Portfolio-React/static/media/AVTR1.a93cff10811fa58f8d1c.png",
     "static/media/AVTR3.png": "/My-Portfolio-React/static/media/AVTR3.5800bc21ccca2d53f6ef.png",
     "static/media/AVTR4.png": "/My-Portfolio-React/static/media/AVTR4.e9f82c0096f7fb4140bb.png",
     "static/media/fer.png": "/My-Portfolio-React/static/media/fer.22491c1b504d6c64a5a7.png",
-    "static/media/me-about.png": "/My-Portfolio-React/static/media/me-about.67ea8ed1b982cdf54d87.png",
     "static/media/Currículo Profissional Fernando Soares 2022-2.pdf": "/My-Portfolio-React/static/media/Currículo Profissional Fernando Soares 2022-2.8ae2b64149ca8ae6f412.pdf",
     "static/media/portfolio2.png": "/My-Portfolio-React/static/media/portfolio2.d29fa1673645e7406405.png",
     "static/media/portfolio1.png": "/My-Portfolio-React/static/media/portfolio1.1d6d700c47d2a6013f55.png",
@@ -16,10 +16,10 @@
     "static/media/portfolio6.png": "/My-Portfolio-React/static/media/portfolio6.7006d8038735ddb3e20a.png",
     "index.html": "/My-Portfolio-React/index.html",
     "main.bd59d54d.css.map": "/My-Portfolio-React/static/css/main.bd59d54d.css.map",
-    "main.db8b85ac.js.map": "/My-Portfolio-React/static/js/main.db8b85ac.js.map"
+    "main.2efe04fa.js.map": "/My-Portfolio-React/static/js/main.2efe04fa.js.map"
   },
   "entrypoints": [
     "static/css/main.bd59d54d.css",
-    "static/js/main.db8b85ac.js"
+    "static/js/main.2efe04fa.js"
   ]
 }
