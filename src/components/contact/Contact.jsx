@@ -27,21 +27,27 @@ const Contact = () => {
       <h2>Contact Me</h2>
       <div className="container contact__container">
         <div className="contact__options">
-           <article className='contact__option'>
-            <MdOutlineEmail className='contact__option-icon'/>
-            <h4>Email</h4>
-            <a href="mailto:fernando89soares@gmail.com" target="blank">Send a message </a>
-           </article>
-           <article className='contact__option'>
-            <RiMessengerLine className='contact__option-icon'/>
-            <h4>Messeger</h4>
-            <a href="https://m.me/89fernando" target="blank">Send a message </a>
-           </article>
-           <article className='contact__option'>
+          <a href="mailto:fernando89soares@gmail.com" target="blank">
+            <article className='contact__option'>
+              <MdOutlineEmail className='contact__option-icon'/>
+              <h4>Email</h4>
+              Send a message 
+            </article>
+          </a>
+          <a href="https://m.me/89fernando" target="blank">
+            <article className='contact__option'>
+              <RiMessengerLine className='contact__option-icon'/>
+              <h4>Messeger</h4>
+              Send a message 
+            </article>
+          </a>
+          <a href="https://api.whatsapp.com/send?phone=5551981626259" target="blank">
+            <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
-            <a href="https://api.whatsapp.com/send?phone=5551981626259" target="blank">Send a message </a>
-           </article>
+            Send a message 
+            </article>
+          </a>
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>
