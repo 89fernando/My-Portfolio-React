@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-To install and/or update node dependencies.
+To install and/or update node dependencies:
 
 ### `npm start`
 
