@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/Curriculo-Profissional-FernandoSoares_2023_1.pdf";
+import CV from "../../assets/Currículo Profissional Fernando Soares 2024-1.pdf";
 
 const CTA = () => {
   return (
