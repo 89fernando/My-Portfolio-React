@@ -1,6 +1,7 @@
 import React from "react";
 import "./experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
+import { IoIosAlert } from "react-icons/io";
 
 const Experience = () => {
   return (
@@ -20,13 +21,13 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Typescript e Javascript</h4>
+                <h4>Typescript and Javascript</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Material e Chakra UI</h4>
+                <h4>Material and Chakra UI</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -38,19 +39,19 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>React Testing Library</h4>
+                <h4>Jest and React Testing Library</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>HTML, CSS e SCSS</h4>
+                <h4>HTML, CSS and SCSS</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Git e GitHub</h4>
+                <h4>Git and GitHub</h4>
               </div>
             </article>
           </div>
@@ -133,6 +134,12 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Maria DB</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <IoIosAlert className="experience__details-icon-alert" />
+              <div>
+                <h5> Itens em estudos</h5>
               </div>
             </article>
           </div>

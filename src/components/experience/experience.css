@@ -39,6 +39,10 @@
     margin-top: 6px;
     color: var(--color-primary);
 }
+.experience__details-icon-alert {
+    margin-top: 2px;
+    color: var(--color-primary);
+}
 
 /*================== MEDIA QUERIES (MEDIUM DEVICES ================== */
 

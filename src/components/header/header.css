@@ -46,7 +46,7 @@ header {
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 5.1rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
@@ -80,5 +80,16 @@ header {
     .header__socials, 
     .scroll__down {
         display: none;
+    }
+    .me {
+        background: linear-gradient(var(--color-primary), transparent);
+    width: 22rem;
+    height: 50rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 15rem;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
     }
 }

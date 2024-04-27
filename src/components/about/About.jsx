@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import ME from "../../assets/me-about.jpg";
-import { FaAward } from "react-icons/fa";
+import { BsAward } from "react-icons/bs";
 import { BsBook } from "react-icons/bs";
 import { VscFolderLibrary } from "react-icons/vsc";
 
@@ -19,9 +19,9 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
-              <FaAward />
+              <BsAward />
               <h5>Experience</h5>
-              <small> 1.7 + Years of Experience </small>
+              <small> 3 + Years of Experience </small>
             </article>
             <article className="about__card">
               <BsBook />
@@ -31,17 +31,21 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary />
               <h5>Projects</h5>
-              <small> 10+ Completed</small>
+              <small> 30+ Completed</small>
             </article>
           </div>
           <p>
-            I am a postgraduated professional in Business Administration, with
-            an emphasis on processes, improvements and management. I am
-            currently studying technologies aimed at web development. I am a
-            technology fan and agile methodologies enthusiastic. I believe that
-            technology simplifies people's lives and connects them to many
-            possibilities.
+            I am a professional with a postgraduate degree in Business
+            Administration, with emphasis on processes, improvements and
+            management. I studied fullstack development and currently study
+            systems analysis and development.
+            <br />
+            I've been a frontend developer for over 3 years. I am a big fan of
+            technology and agile methodologies.
+            <br />I believe that technology simplifies people's lives and
+            connects them to many possibilities.
           </p>
+
           <a
             href="https://api.whatsapp.com/send?phone=5551981626259"
             target="blank"
