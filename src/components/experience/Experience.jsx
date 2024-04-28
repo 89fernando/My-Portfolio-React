@@ -139,7 +139,7 @@ const Experience = () => {
             <article className="experience__details">
               <IoIosAlert className="experience__details-icon-alert" />
               <div>
-                <h5> Itens em estudos</h5>
+                <h5> Items in studies</h5>
               </div>
             </article>
           </div>
